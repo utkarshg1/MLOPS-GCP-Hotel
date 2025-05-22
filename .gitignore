@@ -1,3 +1,7 @@
+# Notebook joblib files
+notebook/*.joblib
+notebook/*.pkl
+
 # Logs directory
 logs/
 
