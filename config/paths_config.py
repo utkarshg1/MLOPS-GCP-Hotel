@@ -15,3 +15,6 @@ YTRAIN_DATA = os.path.join(PROCESSED_DIR, "ytrain.npy")
 XTEST_DATA = os.path.join(PROCESSED_DIR, "xtest.npy")
 YTEST_DATA = os.path.join(PROCESSED_DIR, "ytest.npy")
 PREPROCESSOR_PATH = os.path.join(PROCESSED_DIR, "preprocessor.joblib")
+
+# Model training
+MODEL_OUTPUT_PATH = "artifacts/models/lgbm_model.joblib"

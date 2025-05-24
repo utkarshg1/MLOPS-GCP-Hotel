@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "google-cloud-storage>=3.1.0",
     "imblearn>=0.0",
+    "lightgbm>=4.6.0",
     "numpy>=2.2.6",
     "pandas>=2.2.3",
     "pyyaml>=6.0.2",
